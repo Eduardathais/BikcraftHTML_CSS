@@ -7,10 +7,14 @@ body {
   justify-items: center;
   margin-top: 60px;
 }
+.bikcraft {
+  grid-column: 1 / -1;
+  margin-top: 60px;
+ }
 
 img {
   max-width: 100%;
-  display: block;
+  display: block;  
 }
 
 a {
