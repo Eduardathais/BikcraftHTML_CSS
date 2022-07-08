@@ -73,6 +73,10 @@ p {
 font-size: 2rem;
 }
 
+.introducao-cover img {
+object-fit: cover;
+height: 100%;
+}
 
 h1::after {
   content: '';
@@ -139,3 +143,4 @@ border-left:4px solid #e21
   padding: 40px;
   box-sizing: border-box;
 }
+
